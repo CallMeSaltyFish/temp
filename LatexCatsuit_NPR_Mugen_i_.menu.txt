@@ -1,0 +1,21 @@
+1000
+assets/menu/menu/LatexCatsuit_NPR_Mugen_i_.txt
+ボディスーツ
+accTatoo
+LatexCatsuit_NPR_Mugen
+
+メニューフォルダ	DRESS
+category	accTatoo
+catno	0
+priority	3
+属性追加	所持数表示しない
+name	LatexCatsuit NPR Mugen
+setumei	LatexCatsuit NPR Infinite Color
+icons	LatexCatsuit_NPR_Mugen_i_.tex
+onclickmenu
+delitem	chikubi
+delitem	chikubicolor
+maskitem	chikubi
+マテリアル変更	body	0	LatexCatsuit_NPR_NPRMAT_NPRToonV2_Reflection_.mate
+テクスチャ変更	body	0	_MainTex	skin_002.tex	UNDER_HAIR
+テクスチャ変更	body	0	_ShadowTex	skin_002_shadow.tex	UNDER_HAIR
