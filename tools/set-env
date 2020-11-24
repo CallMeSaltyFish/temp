@@ -4,5 +4,6 @@ export COM3D2_PATH=$(readlink -f ..)
 alias menu-txt=$COM3D2_PATH/tools/menu-txt.sh
 alias mate-txt=$COM3D2_PATH/tools/mate-txt.sh
 alias menu-edit=$COM3D2_PATH/tools/menu-edit.sh
+alias model-edit=$COM3D2_PATH/tools/model-edit.sh
 alias mate-edit=$COM3D2_PATH/tools/mate-edit.sh
 alias tex-png=$COM3D2_PATH/tools/tex-png.sh
