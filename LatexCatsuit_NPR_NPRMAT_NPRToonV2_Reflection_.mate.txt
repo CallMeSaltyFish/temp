@@ -1,5 +1,5 @@
 1000
-kiwamibodysuits_red_NPRMAT_NPRToonV2_Reflection_
+LatexCatsuit_NPR_NPRMAT_NPRToonV2_Reflection_
 skin
 CM3D2/Toony_Lighted
 CM3D2__Toony_Lighted
@@ -7,8 +7,8 @@ CM3D2__Toony_Lighted
 tex
 	_ToonRamp
 	tex2d
-	kiwamibodysuits_NPR_toon
-	Assets/texture/texture/kiwamibodysuits_NPR_toon.png
+	LatexCatsuit_NPR_toon
+	Assets/texture/texture/LatexCatsuit_NPR_toon.png
 	0.0 0.0 1.0 1.0
 tex
 	_ShadowTex

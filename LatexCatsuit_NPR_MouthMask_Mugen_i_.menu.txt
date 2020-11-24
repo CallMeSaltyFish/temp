@@ -13,5 +13,5 @@ name	LatexCatsuit NPR MouthMask Mugen
 setumei	LatexCatsuit NPR MouthMask Infinite Color
 icons	LatexCatsuit_NPR_MouthMask_Mugen_i_.tex
 onclickmenu
-additem	sarugutuwa2.model	accMiMiL	アタッチ	head	額
+additem	LatexCatsuit_NPR_MouthMask.model	accMiMiL	アタッチ	head	額
 マテリアル変更	accMiMiL	0	LatexCatsuit_NPR_MouthMask_NPRMAT_NPRToonV2_Reflection_.mate

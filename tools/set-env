@@ -1,4 +1,6 @@
-export COM3D2_PATH='/d/com3d2'
+export COM3D2_PATH=$(readlink -f ..)
+#export COM3D2_PATH=$COM3D2_PATH/..
+#export COM3D2_PATH=$(readlink -f $COM3D2_PATH)
 alias menu-txt=$COM3D2_PATH/tools/menu-txt.sh
 alias mate-txt=$COM3D2_PATH/tools/mate-txt.sh
 alias menu-edit=$COM3D2_PATH/tools/menu-edit.sh
