@@ -1,0 +1,17 @@
+1000
+assets/sarugutuwa2_z2_i_.txt
+鼻被せ猿轡　白
+accmimi
+しゃべれません
+
+メニューフォルダ	DRESS
+category	accmimi
+catno	0
+属性追加	所持数表示しない
+priority	9999
+name	鼻被せ猿轡　白
+setumei	しゃべれません
+icons	sarugutuwa2_z2_i_.tex
+onclickmenu
+additem	sarugutuwa2.model	accMiMiL	アタッチ	head	額
+マテリアル変更	accMiMiL	0	sarugutuwa2_z2.mate

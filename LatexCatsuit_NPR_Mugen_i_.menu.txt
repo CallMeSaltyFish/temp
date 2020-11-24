@@ -1,6 +1,6 @@
 1000
 assets/menu/menu/LatexCatsuit_NPR_Mugen_i_.txt
-ボディスーツ
+LatexCatsuit Bodysuit
 accTatoo
 LatexCatsuit_NPR_Mugen
 
