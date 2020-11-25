@@ -1,14 +1,14 @@
 1000
-LatexCatsuit-NPR-FaceMask_NPRMAT_NPRToonV2_Reflection_
-LatexCatsuit-NPR-FaceMask
+LatexCatsuit-NPR-Head_NPRMAT_NPRToonV2_Reflection_
+LatexCatsuit-NPR-Head
 CM3D2/Toony_Lighted
 CM3D2__Toony_Lighted
 
 tex
 	_MainTex
 	tex2d
-	LatexCatsuit-NPR-FaceMask
-	Assets/texture/texture/LatexCatsuit-NPR-FaceMask.png
+	LatexCatsuit-NPR-Head
+	Assets/texture/texture/LatexCatsuit-NPR-Head.png
 	0.0 0.0 1.0 1.0
 tex
 	_ToonRamp

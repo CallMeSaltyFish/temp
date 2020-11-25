@@ -1,14 +1,14 @@
 1000
 LatexCatsuit-NPR-MouthMask_NPRMAT_NPRToonV2_Reflection_
-LatexCatsuit-NPR-MouthMask-Mugen
+LatexCatsuit-NPR-MouthMask
 CM3D2/Toony_Lighted
 CM3D2__Toony_Lighted
 
 tex
 	_MainTex
 	tex2d
-	LatexCatsuit-NPR-MouthMask-Mugen
-	Assets/texture/texture/LatexCatsuit-NPR-MouthMask-Mugen.png
+	LatexCatsuit-NPR-MouthMask
+	Assets/texture/texture/LatexCatsuit-NPR-MouthMask.png
 	0.0 0.0 1.0 1.0
 tex
 	_ToonRamp
