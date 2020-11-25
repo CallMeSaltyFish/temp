@@ -9,4 +9,4 @@ then
 	echo 'No such file'
 	exit 0
 fi
-${COM3D2_PATH}/tools/model-edit.exe $file
+${COM3D2_PATH}/tools/model-edit.exe $file &

@@ -1,20 +1,21 @@
 1000
 assets/menu/LatexCatsuit-NPR-FaceMask-Mugen_i_.txt
-watexra仮面
+LatexCatsuit FaceMask
 headset
-wara仮面
+LatexCatsuit-NPR-FaceMask-Mugen
 
 メニューフォルダ	DRESS
 category	headset
 catno	1
 属性追加	所持数表示しない
-priority	1
-name	wara仮面
-setumei	wara仮面
-icons	wara_mask_z1_i_.tex
+priority	9999
+name	LatexCatsuit NPR FaceMask Mugen
+setumei	LatexCatsuit NPR FaceMask Infinite Color
+icons	LatexCatsuit-NPR-FaceMask-Mugen_i_.tex
 onclickmenu
-additem	wara_mask.model	headset
-マテリアル変更	headset	0	wara_mask_z1.mate
+additem	LatexCatsuit-NPR-FaceMask.model	headset
 消去node設定開始
 消去node設定終了
-マテリアル変更  headset        0       LatexCatsuit-NPR-MouthMask_NPRMAT_NPRToonV2_Reflection_.mate
+マテリアル変更	headset	0	LatexCatsuit-NPR-FaceMask_NPRMAT_NPRToonV2_Reflection_.mate
+テクスチャ変更	headset	0	_MainTex	LatexCatsuit-NPR-FaceMask-Mugen.tex	UNDER_HAIR
+テクスチャ変更	headset	0	_ShadowTex	LatexCatsuit-NPR-FaceMask_shadow.tex	UNDER_HAIR

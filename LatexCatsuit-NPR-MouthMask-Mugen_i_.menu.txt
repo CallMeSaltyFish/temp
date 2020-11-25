@@ -15,5 +15,5 @@ icons	LatexCatsuit-NPR-MouthMask-Mugen_i_.tex
 onclickmenu
 additem	LatexCatsuit-NPR-MouthMask.model	accMiMiL	アタッチ	head	額
 マテリアル変更	accMiMiL	0	LatexCatsuit-NPR-MouthMask_NPRMAT_NPRToonV2_Reflection_.mate
-テクスチャ変更	accMiMiL	0	_MainTex	LatexCatsuit-NPR-MouthMask.tex	UNDER_HAIR
+テクスチャ変更	accMiMiL	0	_MainTex	LatexCatsuit-NPR-MouthMask-Mugen.tex	UNDER_HAIR
 テクスチャ変更	accMiMiL	0	_ShadowTex	LatexCatsuit-NPR-MouthMask_shadow.tex	UNDER_HAIR

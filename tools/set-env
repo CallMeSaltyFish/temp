@@ -1,4 +1,4 @@
-export COM3D2_PATH=$(readlink -f ..)
+export COM3D2_PATH=$( cd "$( dirname "${BASH_SOURCE[0]}" )"/.. && pwd )
 #export COM3D2_PATH=$COM3D2_PATH/..
 #export COM3D2_PATH=$(readlink -f $COM3D2_PATH)
 alias menu-txt=$COM3D2_PATH/tools/menu-txt.sh
