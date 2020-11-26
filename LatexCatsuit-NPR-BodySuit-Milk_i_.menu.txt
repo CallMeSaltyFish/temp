@@ -20,4 +20,4 @@ maskitem	chikubi
 テクスチャ変更	body	0	_MainTex	skin_002.tex
 テクスチャ変更	body	0	_ShadowTex	skin_002_shadow.tex
 テクスチャ合成	body	0	_MainTex	LatexCatsuit-NPR-BodySuit-Milk.tex	Alpha
-テクスチャ合成  body    0       _ShadowTex        LatexCatsuit-NPR-BodySuit-Milk_shadow.tex      Alpha
+テクスチャ合成	body	0	_ShadowTex	LatexCatsuit-NPR-BodySuit-Milk_shadow.tex	Alpha
