@@ -13,7 +13,22 @@ name	LatexCatsuit NPR PTops Mugen
 setumei	LatexCatsuit NPR PTops Infinite Color
 icons	LatexCatsuit-NPR-PTops-Mugen_i_.tex
 onclickmenu
-additem	LatexCatsuit-NPR-PTops.model	accsenaka	アタッチ	head	額
+additem	skinsuitspolice_tops.model	accsenaka
 マテリアル変更	accsenaka	0	LatexCatsuit-NPR-PTops_NPRMAT_NPRToonV2_Reflection_.mate
+マテリアル変更	accsenaka	1	LatexCatsuit-NPR-PTops_NPRMAT_NPRToonV2_Reflection_.mate
+マテリアル変更	accsenaka	2	LatexCatsuit-NPR-PTops_NPRMAT_NPRToonV2_Reflection_.mate
+マテリアル変更	accsenaka	3	LatexCatsuit-NPR-PTops_NPRMAT_NPRToonV2_Reflection_.mate
+マテリアル変更	accsenaka	4	LatexCatsuit-NPR-PTops_NPRMAT_NPRToonV2_Reflection_.mate
+マテリアル変更	accsenaka	5	LatexCatsuit-NPR-PTops-logo_NPRMAT_NPRToonV2_Reflection_.mate
 テクスチャ変更	accsenaka	0	_MainTex	LatexCatsuit-NPR-PTops-Mugen.tex	UNDER_HAIR
+テクスチャ変更	accsenaka	1	_MainTex	LatexCatsuit-NPR-PTops-Mugen.tex	UNDER_HAIR
+テクスチャ変更	accsenaka	2	_MainTex	LatexCatsuit-NPR-PTops-Mugen.tex	UNDER_HAIR
+テクスチャ変更	accsenaka	3	_MainTex	LatexCatsuit-NPR-PTops-Mugen.tex	UNDER_HAIR
+テクスチャ変更	accsenaka	4	_MainTex	LatexCatsuit-NPR-PTops-Mugen.tex	UNDER_HAIR
+テクスチャ変更	accsenaka	5	_MainTex	LatexCatsuit-NPR-PTops-logo.tex	UNDER_HAIR
 テクスチャ変更	accsenaka	0	_ShadowTex	LatexCatsuit-NPR-PTops_shadow.tex	UNDER_HAIR
+テクスチャ変更	accsenaka	1	_ShadowTex	LatexCatsuit-NPR-PTops_shadow.tex	UNDER_HAIR
+テクスチャ変更	accsenaka	2	_ShadowTex	LatexCatsuit-NPR-PTops_shadow.tex	UNDER_HAIR
+テクスチャ変更	accsenaka	3	_ShadowTex	LatexCatsuit-NPR-PTops_shadow.tex	UNDER_HAIR
+テクスチャ変更	accsenaka	4	_ShadowTex	LatexCatsuit-NPR-PTops_shadow.tex	UNDER_HAIR
+テクスチャ変更	accsenaka	5	_ShadowTex	LatexCatsuit-NPR-PTops-logo_shadow.tex	UNDER_HAIR
