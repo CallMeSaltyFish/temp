@@ -13,7 +13,7 @@ name	LatexCatsuit NPR PTops Mugen
 setumei	LatexCatsuit NPR PTops Infinite Color
 icons	LatexCatsuit-NPR-PTops-Mugen_i_.tex
 onclickmenu
-additem	skinsuitspolice_tops.model	accsenaka
+additem	LatexCatsuit-NPR-PTops.model	accsenaka
 マテリアル変更	accsenaka	0	LatexCatsuit-NPR-PTops_NPRMAT_NPRToonV2_Reflection_.mate
 マテリアル変更	accsenaka	1	LatexCatsuit-NPR-PTops_NPRMAT_NPRToonV2_Reflection_.mate
 マテリアル変更	accsenaka	2	LatexCatsuit-NPR-PTops_NPRMAT_NPRToonV2_Reflection_.mate
