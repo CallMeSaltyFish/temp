@@ -13,7 +13,7 @@ name	LatexCatsuit NPR Gloves Mugen
 setumei	LatexCatsuit NPR Gloves Infinite Color
 icons	LatexCatsuit-NPR-Gloves-Mugen_i_.tex
 onclickmenu
-additem	LatexCatsuit-NPR-Gloves.model	glove	アタッチ	head	額
+additem	LatexCatsuit-NPR-Gloves.model	glove
 マテリアル変更	glove	0	LatexCatsuit-NPR-Gloves_NPRMAT_NPRToonV2_Reflection_.mate
 テクスチャ変更	glove	0	_MainTex	LatexCatsuit-NPR-Gloves-Mugen.tex	UNDER_HAIR
 テクスチャ変更	glove	0	_ShadowTex	LatexCatsuit-NPR-Gloves_shadow.tex	UNDER_HAIR

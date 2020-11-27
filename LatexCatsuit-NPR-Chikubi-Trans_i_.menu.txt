@@ -1,0 +1,16 @@
+1000
+assets/menu/menu/LatexCatsuit-NPR-Chikubi-Trans_i_.txt
+LatexCatsuit Chikubi
+chikubi
+LatexCatsuit-NPR-Chikubi-Trans
+
+メニューフォルダ	DRESS
+category	chikubicolor
+catno	0
+priority	9999
+属性追加	所持数表示しない
+name	LatexCatsuit NPR Mugen
+setumei	Chikubi for LatexCatsuit NPR 
+icons	LatexCatsuit-NPR-Chikubi-Trans_i_.tex
+onclickmenu
+マテリアル変更	body	0	LatexCatsuit-NPR-BodySuit_NPRMAT_NPRToonV2_Reflection_Trans_.mate
