@@ -13,8 +13,6 @@ name	LatexCatsuit NPR Mugen
 setumei	LatexCatsuit NPR Milk
 icons	LatexCatsuit-NPR-BodySuit-Milk_i_.tex
 onclickmenu
-delitem	chikubi
-maskitem	chikubi
 マテリアル変更	body	0	LatexCatsuit-NPR-BodySuit_NPRMAT_NPRToonV2_Reflection_.mate
 マテリアル変更	body	1	LatexCatsuit-NPR-BodySuit_NPRMAT_NPRToonV2_Reflection_Trans_.mate
 マテリアル変更	chikubi	0	LatexCatsuit-NPR-BodySuit_NPRMAT_NPRToonV2_Reflection_Trans_.mate
