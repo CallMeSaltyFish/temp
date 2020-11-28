@@ -19,7 +19,7 @@ additem	LatexCatsuit-NPR-PTops.model	accsenaka
 マテリアル変更	accsenaka	2	LatexCatsuit-NPR-PTops_NPRMAT_NPRToonV2_Reflection_.mate
 マテリアル変更	accsenaka	3	LatexCatsuit-NPR-PTops_NPRMAT_NPRToonV2_Reflection_.mate
 マテリアル変更	accsenaka	4	LatexCatsuit-NPR-PTops_NPRMAT_NPRToonV2_Reflection_.mate
-マテリアル変更	accsenaka	5	LatexCatsuit-NPR-PTops-logo_NPRMAT_NPRToonV2_Reflection_.mate
+マテリアル変更	accsenaka	5	LatexCatsuit-NPR-PTops-logo_NPRMAT_NPRToonV2_Reflection_OutlineTex_.mate
 テクスチャ変更	accsenaka	0	_MainTex	LatexCatsuit-NPR-PTops-Mugen.tex	UNDER_HAIR
 テクスチャ変更	accsenaka	1	_MainTex	LatexCatsuit-NPR-PTops-Mugen.tex	UNDER_HAIR
 テクスチャ変更	accsenaka	2	_MainTex	LatexCatsuit-NPR-PTops-Mugen.tex	UNDER_HAIR
