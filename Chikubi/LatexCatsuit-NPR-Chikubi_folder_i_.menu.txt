@@ -6,7 +6,7 @@ LatexCatsuit-NPR-Chikubi-Trans
 
 メニューフォルダ	BODY
 category	chikubi
-icons	LatexCatsuit-NPR-Chikubi-Trans_i_.tex
+icons	LatexCatsuit-NPR-Chikubi_folder_i_.tex
 color_set	chikubicolor	LatexCatsuit-NPR-Chikubi-*_I_.menu
 priority	9999
 name	LatexCatsuit-NPR-Chikubi

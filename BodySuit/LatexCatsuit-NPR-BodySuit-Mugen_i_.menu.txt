@@ -21,6 +21,3 @@ maskitem	chikubi
 テクスチャ変更	body	1	_MainTex	LatexCatsuit-NPR-BodySuit-Mugen.tex	UNDER_HAIR
 テクスチャ変更	body	0	_ShadowTex	LatexCatsuit-NPR-BodySuit_shadow.tex	UNDER_HAIR
 テクスチャ変更	body	1	_ShadowTex	LatexCatsuit-NPR-BodySuit_shadow.tex	UNDER_HAIR
-消去node設定開始
-node消去	chikubi
-消去node設定終了
