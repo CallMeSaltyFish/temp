@@ -1,0 +1,20 @@
+1000
+assets/menu/menu/LatexCatsuit-NPR-FaceMask-Mugen_i_.txt
+LatexCatsuit FaceMask
+headset
+LatexCatsuit-NPR-FaceMask-Mugen
+
+メニューフォルダ	DRESS
+category	headset
+catno	0
+属性追加	所持数表示しない
+priority	9999
+name	LatexCatsuit NPR FaceMask Mugen
+setumei	LatexCatsuit NPR FaceMask Infinite Color
+icons	LatexCatsuit-NPR-FaceMask-Mugen_i_.tex
+onclickmenu
+additem	LatexCatsuit-NPR-FaceMask.model	headset
+マテリアル変更	headset	0	LatexCatsuit-NPR-FaceMask_NPRMAT_NPRToonV2_Reflection_.mate
+テクスチャ変更	headset	0	_MainTex	LatexCatsuit-NPR-FaceMask.tex	EYE_BROW
+テクスチャ変更	headset	0	_ShadowTex	LatexCatsuit-NPR-FaceMask_shadow.tex	EYE_BROW
+消去node	none

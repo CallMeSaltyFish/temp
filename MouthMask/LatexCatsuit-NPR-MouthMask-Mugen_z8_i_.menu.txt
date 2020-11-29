@@ -1,0 +1,19 @@
+1000
+LatexCatsuit-NPR-MouthMask-Mugen_i_.txt
+LatexCatsuit MouthMask
+accmimi
+LatexCatsuit-NPR-MouthMask-Mugen
+
+メニューフォルダ	DRESS
+category	accmimi
+catno	0
+属性追加	所持数表示しない
+priority	9999
+name	LatexCatsuit NPR MouthMask Mugen
+setumei	LatexCatsuit NPR MouthMask Infinite Color
+icons	LatexCatsuit-NPR-MouthMask-Mugen_i_.tex
+onclickmenu
+additem	LatexCatsuit-NPR-MouthMask.model	accMiMiL	アタッチ	head	額
+マテリアル変更	accMiMiL	0	LatexCatsuit-NPR-MouthMask_NPRMAT_NPRToonV2_Reflection_.mate
+テクスチャ変更	accMiMiL	0	_MainTex	LatexCatsuit-NPR-MouthMask-Mugen.tex	SKIN_OUTLINE
+テクスチャ変更	accMiMiL	0	_ShadowTex	LatexCatsuit-NPR-MouthMask_shadow.tex	SKIN_OUTLINE

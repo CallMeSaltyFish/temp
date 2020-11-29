@@ -1,0 +1,20 @@
+1000
+LatexCatsuit-NPR-NHead-Mugen_i_.txt
+LatexCatsuit NHead
+headset
+LatexCatsuit-NPR-NHead-Mugen
+
+メニューフォルダ	DRESS
+category	headset
+catno	0
+属性追加	所持数表示しない
+priority	9999
+name	LatexCatsuit NPR NHead Mugen
+setumei	LatexCatsuit NPR NHead Infinite Color
+icons	LatexCatsuit-NPR-NHead-Mugen_i_.tex
+onclickmenu
+additem	Dress032_head.model	headset
+マテリアル変更	headset	0	LatexCatsuit-NPR-NHead_NPRMAT_NPRToonV2_Reflection_.mate
+テクスチャ変更	headset	0	_MainTex	LatexCatsuit-NPR-NHead-Mugen.tex	HAIR
+テクスチャ変更	headset	0	_ShadowTex	LatexCatsuit-NPR-NHead_shadow.tex	HAIR
+消去node	none

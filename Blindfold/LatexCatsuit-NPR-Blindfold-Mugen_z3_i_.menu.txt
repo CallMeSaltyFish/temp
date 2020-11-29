@@ -1,0 +1,21 @@
+1000
+LatexCatsuit-NPR-Blindfold-Mugen_i_.txt
+LatexCatsuit Blindfold
+accHead
+LatexCatsuit-NPR-Blindfold-Mugen
+
+メニューフォルダ	DRESS
+category	accHead
+属性追加	所持数表示しない
+catno	0
+priority	9999
+name	LatexCatsuit NPR Blindfold Mugen
+setumei	LatexCatsuit NPR Blindfold Infinite Color
+icons	LatexCatsuit-NPR-Blindfold-Mugen_i_.tex
+onclickmenu
+アイテム	_I_megane_del.menu
+additem	LatexCatsuit-NPR-Blindfold.model	accHead	アタッチ	head	額
+マテリアル変更	accHead	0	LatexCatsuit-NPR-Blindfold_NPRMAT_NPRToonV2_Reflection_.mate
+テクスチャ変更	accHead	0	_MainTex	LatexCatsuit-NPR-Blindfold-Mugen.tex	SKIN
+テクスチャ変更	accHead	0	_ShadowTex	LatexCatsuit-NPR-Blindfold_shadow.tex	SKIN
+消去node	none

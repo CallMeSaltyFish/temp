@@ -15,8 +15,8 @@ icons	LatexCatsuit-NPR-Pantyhose-Mugen_i_.tex
 onclickmenu
 additem	LatexCatsuit-NPR-Pantyhose.model	stkg
 マテリアル変更	stkg	0	LatexCatsuit-NPR-Pantyhose_NPRMAT_NPRToonV2_Reflection_.mate
-テクスチャ変更	stkg	0	_MainTex	LatexCatsuit-NPR-Pantyhose-Mugen.tex	HAIR
-テクスチャ変更	stkg	0	_ShadowTex	LatexCatsuit-NPR-Pantyhose_shadow.tex	HAIR
+テクスチャ変更	stkg	0	_MainTex	LatexCatsuit-NPR-Pantyhose-Mugen.tex	NIPPLE
+テクスチャ変更	stkg	0	_ShadowTex	LatexCatsuit-NPR-Pantyhose_shadow.tex	NIPPLE
 消去node設定開始
 node消去	Bip01
 node表示	Pelvis

@@ -1,0 +1,23 @@
+1000
+LatexCatsuit-NPR-PShoes-Mugen_i_.txt
+LatexCatsuit PShoes
+acchat
+LatexCatsuit-NPR-PShoes-Mugen
+
+メニューフォルダ	DRESS
+category	shoes
+属性追加	所持数表示しない
+catno	0
+priority	9999
+name	LatexCatsuit NPR PShoes Mugen
+setumei	LatexCatsuit NPR PShoes Infinite Color
+icons	LatexCatsuit-NPR-PShoes-Mugen_i_.tex
+onclickmenu
+additem	LatexCatsuit-NPR-PShoes.model	shoes
+マテリアル変更	shoes	0	LatexCatsuit-NPR-PShoes_NPRMAT_NPRToonV2_Reflection_.mate
+テクスチャ変更	shoes	0	_MainTex	LatexCatsuit-NPR-PShoes-Mugen.tex	EYE_R
+テクスチャ変更	shoes	0	_ShadowTex	LatexCatsuit-NPR-PShoes_shadow.tex	EYE_R
+消去node設定開始
+node消去	Foot
+パーツnode消去	stkg	Foot
+消去node設定終了
