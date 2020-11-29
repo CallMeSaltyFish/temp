@@ -25,7 +25,7 @@ tex
 tex
 	_MatcapMap
 	tex2d
-	latex6
+	LatexCatsuit-NPR
 	Assets/texture/texture/
 	0.0 0.0 1.0 1.0
 col
