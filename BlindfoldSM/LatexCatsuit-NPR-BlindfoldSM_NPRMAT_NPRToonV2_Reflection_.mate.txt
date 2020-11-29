@@ -8,7 +8,7 @@ tex
 	_MainTex
 	tex2d
 	LatexCatsuit-NPR-BlindfoldSM
-	Assets/texture/texture/LatexCatsuit-NPR-BlindfoldSM.png
+	Assets/texture/texture/accHead001.png
 	0.0 0.0 1.0 1.0
 tex
 	_ToonRamp

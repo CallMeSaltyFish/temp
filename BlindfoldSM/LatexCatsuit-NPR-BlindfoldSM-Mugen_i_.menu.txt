@@ -14,8 +14,8 @@ setumei	LatexCatsuit NPR BlindfoldSM Infinite Color
 icons	LatexCatsuit-NPR-BlindfoldSM-Mugen_i_.tex
 onclickmenu
 アイテム	_I_megane_del.menu
-additem	LatexCatsuit-NPR-BlindfoldSM.model	accHead	アタッチ	head	額
+additem	accHead001.model	accHead	アタッチ	head	額
 マテリアル変更	accHead	0	LatexCatsuit-NPR-BlindfoldSM_NPRMAT_NPRToonV2_Reflection_.mate
-テクスチャ変更	accHead	0	_MainTex	LatexCatsuit-NPR-BlindfoldSM-Mugen.tex	UNDER_HAIR
-テクスチャ変更	accHead	0	_ShadowTex	LatexCatsuit-NPR-BlindfoldSM_shadow.tex	UNDER_HAIR
+テクスチャ変更	accHead	0	_MainTex	accHead001.tex	UNDER_HAIR
+テクスチャ変更	accHead	0	_ShadowTex	accHead001_shadow.tex	UNDER_HAIR
 消去node	none
