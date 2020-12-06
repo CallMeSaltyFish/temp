@@ -1,0 +1,22 @@
+1000
+assets/menu/menu/wara_125shoe_i_.txt
+wara125ブーツ
+shoes
+wara125ブーツ
+
+メニューフォルダ	DRESS
+category	shoes
+catno	0
+属性追加	所持数表示しない
+priority	1
+name	wara125ブーツ
+setumei	wara125ブーツ
+icons	wara125_shoe_i_.tex
+onclickmenu
+additem	wara_125shoe.model	shoes
+消去node設定開始
+パーツnode消去	stkg	Calf
+パーツnode表示	stkg	momotwist_L
+パーツnode表示	stkg	momotwist_R
+node消去	Calf
+消去node設定終了
